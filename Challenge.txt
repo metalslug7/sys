@@ -1,0 +1,29 @@
+﻿I was doing system analysis for a high scale government's project, which is being done before and rejected by the committee, the big issues in this type of projects are divided into two groups 
+
+1- Technical Issues
+
+a- Enhancement Not Conversion
+-----------------------------------------------
+The issue is that the idea of system analysis is not a conversion from manual working cycle to automated one, no, the idea is to understand and study very well the working cycle then enhance, develop, remove and cancel the obstacles and distortions from the working cycle before the automation process. 
+
+Ex: 
+While analysis I found that a same large document is being created two times of original editions without any reasons which waste time, cost and effort, and when I ask the employees they replied that, we didn't know, we just come and found that, then I go forward with this issue with the responsible persons they said that no reasons for two times it's just a habit !!, and finally, based on this technical opinion I decided to cancel the seond edition of the document.
+
+b- Flexible Business Model
+----------------------------------------
+This issue desrcibes that you've not to follow all the client's needs copy and paste without studying and thinking well, of course no, why not ?, becasue you've to think further otherwise you will be in a big trouble.
+
+Ex: 
+Within a meeting with the client and the development team. The issue was about transfer the application or request in the automated system from customer service to reviewer to cashier and so on, which was done by a fixed transfer model or technique means that A must transfer to B  then to C, etc.., not available from A to C direct for example. The dev. team showed that they've finsihed the requirements and displayed the output to the client, then after finsihing displaying, the client said that's right but there's a point which is that there's a probability in the working cycle that A can transfer direct to C for example and also C to F direct, etc..., how we can do it ?, the dev. team said but you didn't tell that before and got a problem between them. The problem here that the client has no imagination enough to mention all the required probabilities and the dev. team make a fixed business model as the client's request without stuyding and thinking further. the solution here is to make a flexible and dynamic model which permits that all can transfer to all with privileges so A to B, C, D, etc... and B to A, C, D, etc... and so on. so when recommending this solutions it works good with client and the dev. team.
+
+c- Unification the Wrong Business Models and Not the Correct Ones
+d- Write Less, Visualize More
+e- Recommend New Innovations
+
+2- Administrative Issues
+
+a- Dealing with Complex Clients
+b- Dealing with Troublemakers 
+c- Dealing with Unqualified Responsible Persons
+
+All other clarifications can be explained upon request 
