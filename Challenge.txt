@@ -1,6 +1,7 @@
 ﻿I was doing system analysis for a high scale government's project, which is being done before and rejected by the committee, the big issues in this type of projects are divided into two groups 
 
 1- Technical Issues
+*************************
 
 a- Enhancement Not Conversion
 -----------------------------------------------
@@ -21,9 +22,11 @@ d- Write Less, Visualize More
 e- Recommend New Innovations
 
 2- Administrative Issues
+******************************
 
 a- Dealing with Complex Clients
 b- Dealing with Troublemakers 
 c- Dealing with Unqualified Responsible Persons
+d- All Types of dealing must be Documented through hard copies of Minutes of Meetings
 
 All other clarifications can be explained upon request 
